@@ -26,6 +26,8 @@ public class StreamJava {
 
 		long countlen = strings.stream().filter((s)->!s.isEmpty() && s.length()==3).count();
 		System.out.println(countlen);
+		System.out.println(countlen);
+		
 		
 		//deleteEmptyStringsUsingJava7
 		
