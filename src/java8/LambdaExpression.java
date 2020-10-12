@@ -19,6 +19,7 @@ public class LambdaExpression {
 		List<Integer> list = Arrays.asList(1,2,3);
 		Consumer<Integer> consumer = (n)->System.out.println(n);
 		list.forEach(consumer);	
+		System.out.println("Test");
 	}
 	
 	public static void passLambdaAsArgs(Addable a1) {
