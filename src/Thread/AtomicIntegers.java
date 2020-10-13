@@ -32,6 +32,7 @@ public class AtomicIntegers {
 		System.out.println("conflict test8");
 		System.out.println("conflict test2");
 		System.out.println("conflict test10");
+		System.out.println("conflict test12");
 	
 
 		
