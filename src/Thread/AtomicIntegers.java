@@ -31,8 +31,8 @@ public class AtomicIntegers {
 		t2.start();
 		System.out.println("conflict test");
 		System.out.println("conflict test2");
-		System.out.println("conflict testw");
-		System.out.println("conflict test2");
+	
+
 		
 	}
 
