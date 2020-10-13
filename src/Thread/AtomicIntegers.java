@@ -30,6 +30,7 @@ public class AtomicIntegers {
 		t1.start();
 		t2.start();
 		System.out.println("conflict test");
+		System.out.println("conflict test2");
 		
 	}
 
