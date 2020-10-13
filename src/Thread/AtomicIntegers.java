@@ -29,6 +29,7 @@ public class AtomicIntegers {
 		Thread12 t2 = new Thread12(ai,"t2");
 		t1.start();
 		t2.start();
+		System.out.println("conflict test");
 		
 	}
 
