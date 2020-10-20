@@ -62,6 +62,7 @@ public class CountdownLatch {
 		cdl.await();
 		
 		System.out.println("Main Completed");
+		System.out.println("Main Completed2");
 	}
 
 }
