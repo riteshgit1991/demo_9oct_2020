@@ -31,10 +31,13 @@ public class AtomicIntegers {
 		t2.start();
 		System.out.println("conflict test8");
 		System.out.println("conflict test2");
+<<<<<<< HEAD
 		System.out.println("conflict test10");
 		System.out.println("conflict test11");
 		System.out.println("conflict test13");
 	
+=======
+>>>>>>> master
 		
 	}
 
