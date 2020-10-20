@@ -66,11 +66,11 @@ public class CountdownLatch {
 		System.out.println("Main Completed2");
 
 		System.out.println("Main Completed1");
-<<<<<<< HEAD
+
 		System.out.println("Main Completed10");
-=======
+
 		System.out.println("Main Completed8");
->>>>>>> c66e4dcc47550a72c0e8ec2a0847b463ee266e69
+
 
 	}
 
